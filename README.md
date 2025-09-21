@@ -1,7 +1,7 @@
 # Sentiment Analysis Web Application
 
 ![Sentiment Analysis Web Application](https://github.com/LearnCode801/sentiment-analysis-project/blob/main/Screenshot%202025-09-21%20132713.png)
-
+## Demo
 [![Project Video Demo Video](https://img.shields.io/badge/Demo-Video-red.svg)](https://drive.google.com/file/d/1W9i1v48yXyiDBh_cZ6bKTW0--0afTRaP/view?usp=sharing)
 
 A simple web-based sentiment analysis application built with Flask and NLTK's VADER sentiment analyzer. This application allows users to input text and receive real-time sentiment analysis results through a clean web interface.
